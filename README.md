@@ -2,7 +2,11 @@
 
 <h2><code>mehmetakifcakr@github ~ $ ./contributions.sh</code></h2>
 
-<img src="./contrib-heatmap.svg" width="860" />
+<p>
+  <em>Mechatronics Engineering • Robotics • Automation • Embedded Systems</em>
+</p>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
 
 <br><br>
 
@@ -10,16 +14,31 @@
 
 <table>
 <tr>
-
 <td valign="top">
-<img src="./info-card.svg" width="490" />
+<img src="./ascii-avatar.svg" width="360" alt="Animated ASCII engineering avatar" />
 </td>
-
+<td valign="top">
+<img src="./info-card.svg" width="520" alt="Profile information card" />
+</td>
 </tr>
 </table>
 
 <br>
 
-<code>⚡ Mechatronics • Robotics • Automation • Embedded Systems</code>
+<code>⚡ Building • Learning • Prototyping • Automating</code>
+
+<br><br>
+
+<details>
+<summary><strong>tech stack</strong></summary>
+<br>
+
+<code>Python</code> · <code>C++</code> · <code>Arduino</code> · <code>Embedded Systems</code> · <code>Robotics</code> · <code>Automation</code> · <code>3D CAD</code> · <code>Computer Vision</code>
+
+</details>
+
+<br>
+
+<sub>Contribution data is refreshed automatically by GitHub Actions.</sub>
 
 </div>
